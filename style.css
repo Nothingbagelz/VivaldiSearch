@@ -1,0 +1,49 @@
+
+input {
+  font-weight: 20px;
+  font-family: Calibri;
+  border-radius: 25px;
+  height: 75px;
+  width: 50%;
+  background-color: white;
+  box-shadow: 1 5px;
+   border: none;
+  transition-duration: .5s;
+  font-size: 45px;
+  padding: 20px;
+  text-align: center;
+}
+input:hover {
+  font-family: Calibri;
+  border-radius: 25px;
+  height: 75px;
+  width: 50%;
+  background-color: lightgray;
+  box-shadow: 1 5px;
+   border: none;
+}
+input:active {
+  font-family: Calibri;
+  border-radius: 25px;
+  height: 75px;
+  width: 50%;
+  background-color: lightgray;
+  box-shadow: 1 5px;
+   border: none;
+}
+body {
+  background-color: #333333;
+  text-align:center;
+  margin-top: 100px;
+}
+img {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+.gradient {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(#333333, #565656, #333333);
+}
