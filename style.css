@@ -18,7 +18,7 @@ input:hover {
   border-radius: 25px;
   height: 75px;
   width: 50%;
-  background-color: #080808;
+  background-color: lightgray;
   box-shadow: 1 5px;
    border: none;
 }
@@ -27,13 +27,13 @@ input:active {
   border-radius: 25px;
   height: 75px;
   width: 50%;
-  background-color: #080808;
+  background-color: lightgray;
   box-shadow: 1 5px;
    border: none;
 }
 body {
-  background-color: #080808;
-  text-align: center;
+  background-color: #333333;
+  text-align:center;
   margin-top: 100px;
 }
 img {
